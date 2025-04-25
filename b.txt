@@ -1,2 +1,10 @@
+
 Hi this is master
 this master editing
+=======
+
+this is branch b1 editing
+=======
+this is b2 branch editing
+
+
